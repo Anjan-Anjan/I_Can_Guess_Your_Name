@@ -1,4 +1,4 @@
-// discover by me: Anjan
+// Guess your name : made by me: Anjan
 #include <stdio.h>
 int main()
 {
